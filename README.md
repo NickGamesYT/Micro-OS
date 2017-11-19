@@ -9,3 +9,4 @@ Button B: picks a random number between 0 and 100
 A + B: Send the message: "Hello World" on channel 1
 Shaking: Birthday music
 tilt to left: temperature
+tilt tho the right: shows how many messages you have recived
