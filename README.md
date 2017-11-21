@@ -1,6 +1,8 @@
 # Micro-OS
 A system for Micro:Bit
 
+YOU NEED A SPEAKER TO USE AL THINGS OF MICRO-OS!
+
 The system starts automatically and shows you the temprature!
 
 How to use Micro-OS:
