@@ -3,7 +3,7 @@ A system for Micro:Bit
 
 YOU NEED A SPEAKER TO USE AL THINGS OF MICRO-OS!
 
-The system starts automatically and shows you the temprature!
+The system starts automatically if you connect the power
 
 How to use Micro-OS:
 Button A: Music
